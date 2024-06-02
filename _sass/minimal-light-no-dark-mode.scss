@@ -116,7 +116,7 @@ email {
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#595959;
+  color:#000000;
 }
 
 lightonly {
@@ -175,6 +175,7 @@ papertitle {
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
+      // .image.avatar img { border-radius: 20%; width: 100%; padding: 10px; border: 1px solid #ddd; padding: 5px; box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);}
 
     #header .image.avatar {
       margin: 0 0 1em 0;
@@ -188,13 +189,13 @@ h3, h4, h5, h6 {
 }
 
 h1 {
-  font-weight: 500;
-  color:#043361;
+  font-weight: 600;
+  color:rgb(0, 50, 77);
   margin:0 0 20px;
 }
 
 h2 {
-  color:#043361;
+  color:rgb(0, 50, 77);
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
@@ -209,16 +210,17 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:35px;
 }
 
 a {
-  color:#39c;
+  // color:rgb(167, 32, 56);
+  color:rgb(0, 135, 209);
   text-decoration:none;
 }
 
 a:hover {
-  color:#069;
+  color:rgb(167, 32, 56);
 }
 
 a small {

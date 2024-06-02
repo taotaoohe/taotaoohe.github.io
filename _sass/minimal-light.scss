@@ -138,7 +138,7 @@ email {
 .icon-button:hover .icon-twitter,.icon-button:hover .icon-facebook,.icon-button:hover .icon-github,.icon-button:hover .icon-linkedin{color:white}
 
 autocolor{
-  color:#595959;
+  color:#010101;
 }
 
 lightonly {
@@ -266,11 +266,12 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:38px;
 }
 
 a {
   color:#39c;
+  // color:#39c;
   text-decoration:none;
 }
 
@@ -301,7 +302,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:1px solid #c21414;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;

@@ -1,22 +1,70 @@
 main:
-
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title:  Assortment Optimization under History-Dependent Effects
+    authors: Taotao He, Yating Zhang, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> (2024)
+    # conference_short: CVPR
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, under review.
+    pdf: https://arxiv.org/pdf/2310.08424
+    # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title:  "Discrete Nonlinear Functions: Strong Formulations and Apllications "
+    authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
+    # conference_short: CVPR
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, under review.
+    pdf: https://arxiv.org/pdf/2310.08424
+    # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title:  Convexification Techniques for Fractional Programs
+    authors: Taotao He, <a href="https://www.cmu.edu/tepper/programs/phd/program/student-profiles/phd-student-liu-siyue.html"> <autocolor>Siyue Liu</autocolor></a>, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2023)
+    # conference_short: CVPR
+    conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>, under review.
+    pdf: https://arxiv.org/pdf/2310.08424
+    # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gt93hYXBzxkJ:scholar.google.com/&output=citation&scisdr=ClHzfLT3ENyfr-qKkBA:AFWwaeYAAAAAZkCMiBCbPOogwf-VE-d2LrD8rbo&scisig=AFWwaeYAAAAAZkCMiMKajgR4SG2QcYsEMR8MuIg&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    #notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title:  An Integer Programming Approach for Quick-Commerce Assortment Planning
+    authors: Yajing Chen, Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html"> <autocolor>Ying Rong</autocolor></a>, and Yulong Wang (2023)
+    # conference_short: CVPR
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>, under review.
+    pdf: https://arxiv.org/abs/2405.02553
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title: MIP Relaxations in Factorable Programming
+    authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
+    # conference_short: CVPR
+    conference: <a href="https://www.siam.org/Portals/0/Journal%20PDFs/SIOPT/SIOPT_flyer_2020_V2_no_regs.pdf?ver=2020-01-06-110554-173"> <autocolor>SIAM Journal on Optimization</autocolor></a>, forthcoming.
+    pdf: https://arxiv.org/abs/2310.07168
+    code: https://zenodo.org/records/8343013
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title: Tractable Relaxations of Composite Functions
+    authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2022)
+    #conference_short: CVPR
+    conference: <a href=" https://pubsonline.informs.org/pb/assets/raw/moor-journal-flyer-1547571970363.pdf"> <autocolor>Mathematics of Operations Research</autocolor></a>.
+    pdf: https://pubsonline.informs.org/doi/10.1287/moor.2021.1162
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:g4u-DF_FNrQJ:scholar.google.com/&output=citation&scisdr=ClHzfLT3ENyfr-qKtWc:AFWwaeYAAAAAZkCMrWeATCu5vQF1oMpRVvGeQv4&scisig=AFWwaeYAAAAAZkCMrSWx4xUZ-uGQYfDppT2W-z0&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title:  A New Framework to Relax Composite Functions in Nonlinear Programs
+    authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2021)
+    #conference_short: MICCAI
+    conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>.
+    pdf: https://link.springer.com/article/10.1007/s10107-020-01541-x
+    # code: https://github.com/MrGiovanni/ContinualLearning
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:d9liNo9YFSUJ:scholar.google.com/&output=citation&scisdr=ClGd53joENyfr5WhiZQ:AFWwaeYAAAAAZj-nkZQf2HIDW6Xp6z7UHnP2OXs&scisig=AFWwaeYAAAAAZj-nkSLSJYHL-dvimrvEGAE1mVg&scisf=4&ct=citation&cd=-1&hl=zh-TW
+    # image: ./assets/img/teaser_example_2.png
+    #notes: Early Accept
