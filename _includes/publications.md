@@ -1,7 +1,7 @@
 <!-- <h2 id="publications" style="margin: 2px 0px -1px;">Publications</h2> -->
 
 
-<h2 id="publications" style="margin: 2px 0px -1px;">Research Papers <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]
+<h2 id="publications" style="margin: 2px 0px -1px;">Research Papers <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=zDviHvcAAAAJ&hl=zh-TW&oi=ao/" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]
 <!-- </temp><temp style="font-size:15px;">[</temp><a href="https://www.researchgate.net/profile/Song-Chen-60" target="_blank" style="font-size:15px;">ResearchGate</a><temp style="font-size:15px;">] -->
 </temp></h2>
 
