@@ -19,24 +19,24 @@ main:
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
-  - title:  Convexification Techniques for Fractional Programs
-    authors: Taotao He, <a href="https://www.cmu.edu/tepper/programs/phd/program/student-profiles/phd-student-liu-siyue.html"> <autocolor>Siyue Liu</autocolor></a>, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2023)
-    # conference_short: CVPR
-    conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>, under review.
-    pdf: https://arxiv.org/pdf/2310.08424
-    # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    # # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gt93hYXBzxkJ:scholar.google.com/&output=citation&scisdr=ClHzfLT3ENyfr-qKkBA:AFWwaeYAAAAAZkCMiBCbPOogwf-VE-d2LrD8rbo&scisig=AFWwaeYAAAAAZkCMiMKajgR4SG2QcYsEMR8MuIg&scisf=4&ct=citation&cd=-1&hl=zh-TW
-    #notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
   - title:  An Integer Programming Approach for Quick-Commerce Assortment Planning
     authors: Yajing Chen, Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html"> <autocolor>Ying Rong</autocolor></a>, and Yulong Wang (2023)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>, under review.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>, major revision.
     pdf: https://arxiv.org/abs/2405.02553
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    #notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title:  Convexification Techniques for Fractional Programs
+    authors: Taotao He, <a href="https://www.cmu.edu/tepper/programs/phd/program/student-profiles/phd-student-liu-siyue.html"> <autocolor>Siyue Liu</autocolor></a>, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
+    # conference_short: CVPR
+    conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>, forthcoming.
+    pdf: https://arxiv.org/pdf/2310.08424
+    # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:gt93hYXBzxkJ:scholar.google.com/&output=citation&scisdr=ClHzfLT3ENyfr-qKkBA:AFWwaeYAAAAAZkCMiBCbPOogwf-VE-d2LrD8rbo&scisig=AFWwaeYAAAAAZkCMiMKajgR4SG2QcYsEMR8MuIg&scisf=4&ct=citation&cd=-1&hl=zh-TW
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title: MIP Relaxations in Factorable Programming
