@@ -43,7 +43,7 @@ font: "Serif" # or "Sans Serif"
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
 # Otherwise, the analytics information of your website will be recorded to my ClustrMaps accounts.
-# clustrmaps_id: ${{ secrets.CLUSTRMAPS_ID }}
+clustrmaps_id: Kyj0HBk08sh_2Rt2Pl019WFBS_n1HdJu5CvjRREYVHM
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
