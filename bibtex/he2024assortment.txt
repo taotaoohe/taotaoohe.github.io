@@ -1,0 +1,7 @@
+@article{he2024assortment,
+  title={Assortment Optimization Under History-Dependent Effects},
+  author={He, Taotao and Zhang, Yating and Zheng, Huan},
+  journal={arXiv e-prints},
+  pages={arXiv--2408},
+  year={2024}
+}

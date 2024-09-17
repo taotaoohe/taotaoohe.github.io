@@ -1,0 +1,6 @@
+@article{he2024discrete,
+  title={Discrete nonlinear functions: formulations and applications in retail revenue management},
+  author={He, Taotao and Tawarmalani, Mohit},
+  journal={arXiv preprint arXiv:2408.04562},
+  year={2024}
+}

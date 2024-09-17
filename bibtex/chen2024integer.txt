@@ -1,0 +1,6 @@
+@article{chen2024integer,
+  title={An integer programming approach for quick-commerce assortment planning},
+  author={Chen, Yajing and He, Taotao and Rong, Ying and Wang, Yunlong},
+  journal={arXiv preprint arXiv:2405.02553},
+  year={2024}
+}

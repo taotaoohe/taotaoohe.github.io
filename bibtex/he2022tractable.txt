@@ -1,0 +1,10 @@
+@article{he2022tractable,
+  title={Tractable relaxations of composite functions},
+  author={He, Taotao and Tawarmalani, Mohit},
+  journal={Mathematics of Operations Research},
+  volume={47},
+  number={2},
+  pages={1110--1140},
+  year={2022},
+  publisher={INFORMS}
+}

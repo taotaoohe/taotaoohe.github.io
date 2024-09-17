@@ -1,0 +1,10 @@
+@article{he2024mip,
+  title={MIP Relaxations in Factorable Programming},
+  author={He, Taotao and Tawarmalani, Mohit},
+  journal={SIAM Journal on Optimization},
+  volume={34},
+  number={3},
+  pages={2856--2882},
+  year={2024},
+  publisher={SIAM}
+}

@@ -1,0 +1,8 @@
+@article{he2024convexification,
+  title={Convexification techniques for fractional programs},
+  author={He, Taotao and Liu, Siyue and Tawarmalani, Mohit},
+  journal={Mathematical Programming},
+  pages={1--43},
+  year={2024},
+  publisher={Springer}
+}
