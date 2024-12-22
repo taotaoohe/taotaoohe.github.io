@@ -30,7 +30,7 @@ main:
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title:  Convexification Techniques for Fractional Programs
-    authors: Taotao He, <a href="https://www.cmu.edu/tepper/programs/phd/program/student-profiles/phd-student-liu-siyue.html"> <autocolor>Siyue Liu</autocolor></a>, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
+    authors: Taotao He, <a href="https://siyueliu112.github.io/"> <autocolor>Siyue Liu</autocolor></a>, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
     # conference_short: CVPR
     conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>.
     arxiv: https://arxiv.org/pdf/2310.08424

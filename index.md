@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hello! Welcome to my website! I am an associate professor (untenured) at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). I received my Ph.D. in 2019 from the [Quantitative Methods](https://business.purdue.edu/academics/quantitative-methods/) at [Mitchell E. Jr., Daniels School of Business](https://business.purdue.edu/), Purdue University, where I was advised by Professor [Mohit Tawarmalani](https://web.ics.purdue.edu/~mtawarma/). 
+Hello! Welcome to my website! I am an associate professor (untenured) at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). I received my Ph.D. in 2019 from the [Quantitative Methods](https://business.purdue.edu/academics/quantitative-methods/) at [Mitch Daniels School of Business](https://business.purdue.edu/), Purdue University, where I was advised by Professor [Mohit Tawarmalani](https://web.ics.purdue.edu/~mtawarma/). 
 
 My research interests are in <b>mixed integer nonlinear programming (MINLP)</b>, including theory, algorithms, computation and applications. I am particularly interested in developing <b>convexification</b> techniques and efficient algorithms for solving MINLPs. Recently, I am also interested in using ideas from MINLP to improve decision-making in operations involving <b>consumer choice behavior</b> and <b>uncertainty</b>.
 
@@ -39,8 +39,11 @@ My research interests are in <b>mixed integer nonlinear programming (MINLP)</b>,
 - Deterministic Operations Research: 2023 Fall
 - Management Science: 2020 Fall
 
+
 ## Personal
 I love playing soccer. Now, I play for SJTU Football Team. At Prudue, I was a member of Purdue Chinese Football Club. 
+
+
 
 {% include_relative _includes/contact.md %}
  <div style="width:100px; pointer-events: none;">
