@@ -1,18 +1,21 @@
 main:
+  - title:  Optimal Data Reduction under Information-Theoretic Criteria
+    authors: Taotao He, Jun Luo, and Junkai Zhao (2025)
+    # conference_short: CVPR
   - title:  Assortment Optimization under History-Dependent Effects
     authors: Taotao He, Yating Zhang, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> (2024)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, major revision.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, minor revision.
     arxiv: https://arxiv.org/abs/2408.10967
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2408.10967
     bibtex: /bibtex/he2024assortment.txt
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
-  - title:  "Discrete Nonlinear Functions: Formulations and Apllications in Retail Revenue Management"
+  - title:  "Discrete Nonlinear Functions: Formulations and Applications in Retail Revenue Management"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, submitted.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, reject and resubmit.
     arxiv: https://arxiv.org/abs/2408.04562
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2408.04562
@@ -22,7 +25,7 @@ main:
   - title:  An Integer Programming Approach for Quick-Commerce Assortment Planning
     authors: Yajing Chen, Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html"> <autocolor>Ying Rong</autocolor></a>, and Yulong Wang (2023)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>,  2rd round review.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>,  minor revision.
     arxiv: https://arxiv.org/abs/2405.02553
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2405.02553
