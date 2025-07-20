@@ -1,7 +1,7 @@
 main:
-  - title:  Optimal Data Reduction under Information-Theoretic Criteria
-    authors: Taotao He, Jun Luo, and Junkai Zhao (2025)
-    # conference_short: CVPR
+  # - title:  Optimal Data Reduction under Information-Theoretic Criteria
+  #   authors: Taotao He, Jun Luo, and Junkai Zhao (2025)
+  #   # conference_short: CVPR
   - title:  Assortment Optimization under History-Dependent Effects
     authors: Taotao He, Yating Zhang, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> (2024)
     # conference_short: CVPR
