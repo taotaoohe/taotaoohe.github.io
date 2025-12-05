@@ -7,7 +7,7 @@ main:
   - title:  Assortment Optimization under History-Dependent Effects
     authors: Taotao He, Yating Zhang, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> (2024)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, minor revision.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, accept subject to a voluntary code and data review.
     arxiv: https://arxiv.org/abs/2408.10967
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2408.10967
@@ -27,7 +27,7 @@ main:
   - title:  An Integer Programming Approach for Quick-Commerce Assortment Planning
     authors: Yajing Chen, Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html"> <autocolor>Ying Rong</autocolor></a>, and Yulong Wang (2023)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>,  minor revision.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>,  accept.
     arxiv: https://arxiv.org/abs/2405.02553
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2405.02553
