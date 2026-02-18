@@ -1,7 +1,7 @@
 main:
   - title:  Optimal Data Reduction under Information-Theoretic Criteria
     authors: Taotao He, Jun Luo, and Junkai Zhao (2025)
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/ijoc-journal-flyer-1648835646610.pdf"> <autocolor>Informs Journal on Computing</autocolor></a>, submitted.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/ijoc-journal-flyer-1648835646610.pdf"> <autocolor>Informs Journal on Computing</autocolor></a>, major revision.
     arxiv: https://arxiv.org/abs/2508.16123
   #   # conference_short: CVPR
   - title:  Assortment Optimization under History-Dependent Effects
@@ -14,10 +14,10 @@ main:
     bibtex: /bibtex/he2024assortment.txt
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
-  - title:  "Discrete Nonlinear Functions: Formulations and Applications in Retail Revenue Management"
-    authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
+  - title:  "Discreteness to Convexity: Promotion Planning via Simplotope Triangulation"
+    authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2025)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, reject and resubmit.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, under review.
     arxiv: https://arxiv.org/abs/2408.04562
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2408.04562
@@ -30,7 +30,7 @@ main:
     conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>,  accept.
     arxiv: https://arxiv.org/abs/2405.02553
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://arxiv.org/abs/2405.02553
+    page: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02996
     bibtex: /bibtex/chen2024integer.txt
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
