@@ -4,16 +4,6 @@ main:
     conference: <a href="https://pubsonline.informs.org/pb/assets/raw/ijoc-journal-flyer-1648835646610.pdf"> <autocolor>Informs Journal on Computing</autocolor></a>, major revision.
     arxiv: https://arxiv.org/abs/2508.16123
   #   # conference_short: CVPR
-  - title:  Assortment Optimization under History-Dependent Effects
-    authors: Taotao He, Yating Zhang, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> (2024)
-    # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, accept subject to a voluntary code and data review.
-    arxiv: https://arxiv.org/abs/2408.10967
-    # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://arxiv.org/abs/2408.10967
-    bibtex: /bibtex/he2024assortment.txt
-    # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
   - title:  "Discreteness to Convexity: Promotion Planning via Simplotope Triangulation"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2025)
     # conference_short: CVPR
@@ -24,10 +14,20 @@ main:
     bibtex: /bibtex/he2024discrete.txt
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
-  - title:  An Integer Programming Approach for Quick-Commerce Assortment Planning
-    authors: Yajing Chen, Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html"> <autocolor>Ying Rong</autocolor></a>, and Yulong Wang (2023)
+  - title:  Assortment Optimization under History-Dependent Effects
+    authors: Taotao He, <a href="https://zhangyt00.github.io/"> <autocolor>Yating Zhang</autocolor></a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> (2026)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>,  accept.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, accept subject to a voluntary code and data review.
+    arxiv: https://arxiv.org/abs/2408.10967
+    # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://arxiv.org/abs/2408.10967
+    bibtex: /bibtex/he2024assortment.txt
+    # notes: Oral Presentation
+    # image: ./assets/img/teaser_example.png
+  - title:  An Integer Programming Approach for Quick-Commerce Assortment Planning
+    authors: Yajing Chen, Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html"> <autocolor>Ying Rong</autocolor></a>, and <a href="https://ylw2018.github.io//"> <autocolor>Yunlong Wang</autocolor></a> (2026)
+    # conference_short: CVPR
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/mnsc-journal-flyer-1714481412170.pdf"> <autocolor> Management Science</autocolor></a>.
     arxiv: https://arxiv.org/abs/2405.02553
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02996
@@ -35,7 +35,7 @@ main:
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title:  Convexification Techniques for Fractional Programs
-    authors: Taotao He, <a href="https://siyueliu112.github.io/"> <autocolor>Siyue Liu</autocolor></a>, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2024)
+    authors: Taotao He, <a href="https://siyueliu112.github.io/"> <autocolor>Siyue Liu</autocolor></a>, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> (2025)
     # conference_short: CVPR
     conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>.
     arxiv: https://arxiv.org/pdf/2310.08424
