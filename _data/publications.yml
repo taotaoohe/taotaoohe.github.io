@@ -1,12 +1,12 @@
 main:
   - title:  "A Polynomial-Time Test for Peak-Oriented Rationalizability"
     authors:  Taotao He, and Runfa Hu (2026)
-    conference: <a> <autocolor>Economic Theory Bulletin </autocolor></a>.
-    arxiv: 
+    conference: <a> <autocolor>Economic Theory Bulletin </autocolor></a>, submitted.
+  #   arxiv: 
   - title:  "Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization"
     authors:  Zhongqi Wu, Taotao He, and Mohit Tawarmalani (2026)
-    conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>.
-    arxiv: 
+    conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>, submitted.
+  #   arxiv: 
   - title:  "Assortment Optimization under Logit-Based Multi-Purchase Choice Models"
     authors: Taotao He, Zhongqi Wu, and Yating Zhang (2026)
     conference: <a> <autocolor> Manufacturing & Service Operations Management </autocolor> </a>, submitted.
@@ -33,10 +33,10 @@ main:
   - title:  "Assortment Optimization under History-Dependent Effects"
     authors: Taotao He, <a href="https://zhangyt00.github.io/"> <autocolor>Yating Zhang</autocolor></a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> (2026)
     # conference_short: CVPR
-    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>, accept subject to a voluntary code and data review.
+    conference: <a href="https://pubsonline.informs.org/pb/assets/raw/opre-journal-flyer-1710360814617.pdf"> <autocolor>Operations Research</autocolor></a>.
     arxiv: https://arxiv.org/abs/2408.10967
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://arxiv.org/abs/2408.10967
+    page: https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1273
     bibtex: /bibtex/he2024assortment.txt
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
