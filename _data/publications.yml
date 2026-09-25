@@ -2,11 +2,11 @@ main:
   - title:  "A Polynomial-Time Test for Peak-Oriented Rationalizability"
     authors:  Taotao He, and Runfa Hu (2026)
     conference: <a> <autocolor>Economic Theory Bulletin </autocolor></a>, submitted.
-  #   arxiv: 
+    arxiv: http://arxiv.org/abs/2609.30042
   - title:  "Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization"
     authors:  Zhongqi Wu, Taotao He, and Mohit Tawarmalani (2026)
     conference: <a href="https://link.springer.com/journal/10107"> <autocolor>Mathematical Programming</autocolor></a>, submitted.
-  #   arxiv: 
+    # arxiv: http://arxiv.org/abs/2609.30042
   - title:  "Assortment Optimization under Logit-Based Multi-Purchase Choice Models"
     authors: Taotao He, Zhongqi Wu, and Yating Zhang (2026)
     conference: <a> <autocolor> Manufacturing & Service Operations Management </autocolor> </a>, submitted.
