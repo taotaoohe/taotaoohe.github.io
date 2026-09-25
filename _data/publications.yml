@@ -1,15 +1,15 @@
 main:
   - title:  "A Polynomial-Time Test for Peak-Oriented Rationalizability"
     authors:  Taotao He, and Runfa Hu 
-    conference: <em>Economic Theory Bulletin</em> (submitted)
+    conference: <em>Economic Theory Bulletin</em> (under review)
     arxiv: http://arxiv.org/abs/2609.30042
   - title:  "Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization"
     authors:  Zhongqi Wu, Taotao He, and Mohit Tawarmalani 
-    conference: <em>Mathematical Programming</em> (submitted)
+    conference: <em>Mathematical Programming</em> (under review)
     # arxiv: http://arxiv.org/abs/2609.30042
   - title:  "Assortment Optimization under Logit-Based Multi-Purchase Choice Models"
     authors: Taotao He, Zhongqi Wu, and Yating Zhang 
-    conference: <em>Manufacturing & Service Operations Management</em> (submitted)
+    conference: <em>Manufacturing & Service Operations Management</em> (under review)
     arxiv: https://arxiv.org/abs/2603.26056
   - title:  "Axis-Aligned Relaxations for Mixed-Integer Nonlinear Programming"
     authors: Haisheng Zhu, Taotao He, and Mohit Tawarmalani 
@@ -17,13 +17,13 @@ main:
     arxiv: https://arxiv.org/abs/2603.18458
   - title:  "Optimal Data Reduction under Information-Theoretic Criteria"
     authors: Taotao He, Jun Luo, and Junkai Zhao 
-    conference: <em>INFORMS Journal on Computing</em> (under third-round review)
+    conference: <em>INFORMS Journal on Computing</em> (minor revision)
     arxiv: https://arxiv.org/abs/2508.16123
   #   # conference_short: CVPR
   - title:  "Discreteness to Convexity: Promotion Planning via Simplotope Triangulation"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> 
     # conference_short: CVPR
-    conference: <em>Operations Research</em> (under second-round review)
+    conference: <em>Operations Research</em> (major review)
     arxiv: https://arxiv.org/abs/2408.04562
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2408.04562
