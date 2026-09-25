@@ -1,6 +1,6 @@
 main:
   - title:  "A Polynomial-Time Test for Peak-Oriented Rationalizability"
-    authors:  Taotao He, and <a href="https://runfahu.github.io/"><autocolor> Runfa Hu<autocolor></a>
+    authors:  Taotao He, and <a href="https://runfahu.github.io/"> <autocolor>Runfa Hu</autocolor></a> 
     conference: <em>Economic Theory Bulletin</em> (under review)
     arxiv: http://arxiv.org/abs/2609.30042
   - title:  "Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization"
