@@ -5,12 +5,8 @@ layout: homepage
 Hello! Welcome to my website! I am an associate professor (untenured) at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). I received my Ph.D. in 2019 from the [Quantitative Methods](https://business.purdue.edu/academics/quantitative-methods/) at [Mitch Daniels School of Business](https://business.purdue.edu/), Purdue University, where I was advised by Professor [Mohit Tawarmalani](https://web.ics.purdue.edu/~mtawarma/). 
 
 {: .justify}
-My research interests lie in **mixed-integer nonlinear programming (MINLP)**, including theory, algorithms, computation, and applications. I am particularly interested in developing **convexification** techniques and efficient algorithms for solving MINLPs. More recently, I have been exploring how ideas from MINLP can be used to improve decision-making in assortment planning, pricing, data reduction, and revealed-preference testing.
+My research interests lie in **mixed-integer nonlinear programming (MINLP)**, including theory, algorithms, computation, and applications. I am particularly interested in developing **convexification** techniques and efficient algorithms for solving MINLPs. More recently, I have been exploring how ideas from MINLP can be used to improve decision-making in **assortment planning**, **pricing**, **data selection**, and **revealed-preference testing**.
  
-
-am also interested in using ideas from MINLP to improve decision-making in **assortment planning**, **pricing**, **data selection**, and **revealed-preference testing**.
-
-I have been exploring how ideas from MINLP can be applied to improve decision-making in assortment planning, pricing, data selection, and revealed-preference testing.
 
 [Here](https://www.acem.sjtu.edu.cn/faculty/hetaotao.html#container) is my SJTU webpage in Chinese.
 
