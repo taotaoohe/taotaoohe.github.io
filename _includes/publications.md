@@ -12,18 +12,18 @@
 
 <li>
 <div class="pub-row">
-  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 1px;padding-left: 1px;"> -->
-    <!-- {% if link.image %} 
+  <!-- <div class="col-sm-3 abbr" style="position: relative;padding-right: 1px;padding-left: 1px;">
+    {% if link.image %} 
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
-    {% endif %} -->
-    <!-- {% if link.conference_short %} 
+    {% endif %}
+    {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %} -->
-  <!-- </div> -->
+    {% endif %}
+  </div> -->
   <div class="col-sm-9" style="position: relative;padding-right: 1px;padding-left: 2px;">
       <div class="title"><a href="{{ link.page }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.conference }}</em>
+      <div class="periodical">{{ link.conference }}
       </div>
     <div class="links">
       {% if link.pdf %} 
