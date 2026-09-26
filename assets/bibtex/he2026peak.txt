@@ -1,0 +1,9 @@
+@misc{he2026polynomialtimetestpeakorientedrationalizability,
+      title={A Polynomial-Time Test for Peak-Oriented Rationalizability}, 
+      author={Taotao He and Runfa Hu},
+      year={2026},
+      eprint={2609.30042},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2609.30042}, 
+}

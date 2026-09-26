@@ -1,0 +1,7 @@
+@article{he2026assortment,
+  title={Assortment optimization under history-dependent effects},
+  author={He, Taotao and Zhang, Yating and Zheng, Huan},
+  journal={Operations Research},
+  year={2026},
+  publisher={INFORMS}
+}

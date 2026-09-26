@@ -1,0 +1,9 @@
+@misc{he2026assortmentoptimizationlogitbasedmultipurchase,
+      title={Assortment Optimization under Logit-Based Multi-Purchase Choice Models}, 
+      author={Taotao He and Zhongqi Wu and Yating Zhang},
+      year={2026},
+      eprint={2603.26056},
+      archivePrefix={arXiv},
+      primaryClass={math.OC},
+      url={https://arxiv.org/abs/2603.26056}, 
+}

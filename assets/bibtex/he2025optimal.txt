@@ -1,0 +1,6 @@
+@article{he2025optimal,
+  title={Optimal Data Reduction under Information-Theoretic Criteria},
+  author={He, Taotao and Luo, Jun and Zhao, Junkai},
+  journal={arXiv preprint arXiv:2508.16123},
+  year={2025}
+}

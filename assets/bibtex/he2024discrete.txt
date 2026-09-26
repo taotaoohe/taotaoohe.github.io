@@ -1,0 +1,6 @@
+@article{he2024discreteness,
+  title={Discreteness to convexity: Promotion planning via simplotope triangulation},
+  author={He, Taotao and Tawarmalani, Mohit},
+  journal={arXiv preprint arXiv:2408.04562},
+  year={2024}
+}

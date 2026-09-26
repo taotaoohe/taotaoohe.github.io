@@ -3,22 +3,32 @@ main:
     authors:  Taotao He, and <a href="https://runfahu.github.io/"> <autocolor>Runfa Hu</autocolor></a> 
     conference: <em>Economic Theory Bulletin</em> (under review)
     arxiv: http://arxiv.org/abs/2609.30042
+    bibtex: /assets/bibtex/he2026peak.txt
+    abstract: /assets/abstract/he2026peak.txt
   - title:  "Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization"
     authors:  Zhongqi Wu, Taotao He, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a>  
     conference: <em>Mathematical Programming</em> (under review)
     # arxiv: http://arxiv.org/abs/2609.30042
+    # bibtex: /assets/bibtex/he2026assortmentmulti.txt
+    # abstract: /assets/abstract/he2026assortmentmulti.txt
   - title:  "Assortment Optimization under Logit-Based Multi-Purchase Choice Models"
     authors: Taotao He, Zhongqi Wu, and <a href="https://zhangyt00.github.io/"> <autocolor>Yating Zhang</autocolor></a> 
     conference: <em>Manufacturing & Service Operations Management</em> (under review)
     arxiv: https://arxiv.org/abs/2603.26056
+    bibtex: /assets/bibtex/he2026assortmentmulti.txt
+    abstract: /assets/abstract/he2026assortmentmulti.txt
   - title:  "Axis-Aligned Relaxations for Mixed-Integer Nonlinear Programming"
     authors: Haisheng Zhu, Taotao He, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a>  
     conference: <em>Mathematical Programming</em> (major revision)
     arxiv: https://arxiv.org/abs/2603.18458
+    bibtex: /assets/bibtex/zhu2026axis.txt
+    abstract: /assets/abstract/zhu2026axis.txt
   - title:  "Optimal Data Reduction under Information-Theoretic Criteria"
     authors: Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/luojun.html"><autocolor> Jun Luo </autocolor></a>, and Junkai Zhao 
     conference: <em>INFORMS Journal on Computing</em> (minor revision)
     arxiv: https://arxiv.org/abs/2508.16123
+    bibtex: /assets/bibtex/he2025optimal.txt
+    abstract: /assets/abstract/he2025optimal.txt
   #   # conference_short: CVPR
   - title:  "Discreteness to Convexity: Promotion Planning via Simplotope Triangulation"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> 
@@ -27,7 +37,8 @@ main:
     arxiv: https://arxiv.org/abs/2408.04562
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://arxiv.org/abs/2408.04562
-    bibtex: /bibtex/he2024discrete.txt
+    bibtex: /assets/bibtex/he2024discrete.txt
+    abstract: /assets/abstract/he2024discrete.txt
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title:  "Assortment Optimization under History-Dependent Effects"
@@ -37,7 +48,8 @@ main:
     arxiv: https://arxiv.org/abs/2408.10967
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://pubsonline.informs.org/doi/abs/10.1287/opre.2024.1273
-    bibtex: /bibtex/he2024assortment.txt
+    bibtex: /assets/bibtex/he2026assortment.txt
+    abstract: /assets/abstract/he2026assortment.txt
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title:  An Integer Programming Approach for Quick-Commerce Assortment Planning
@@ -47,7 +59,8 @@ main:
     arxiv: https://arxiv.org/abs/2405.02553
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.02996
-    bibtex: /bibtex/chen2024integer.txt
+    bibtex: /assets/bibtex/chen2026integer.txt
+    abstract: /assets/abstract/chen2026integer.txt
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title:  Convexification Techniques for Fractional Programs
@@ -57,7 +70,8 @@ main:
     arxiv: https://arxiv.org/pdf/2310.08424
     # # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://link.springer.com/article/10.1007/s10107-024-02131-x
-    bibtex: /bibtex/he2024convexification.txt
+    bibtex: /assets/bibtex/he2025convexification.txt
+    abstract: /assets/abstract/he2025convexification.txt
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title: MIP Relaxations in Factorable Programming
@@ -67,7 +81,8 @@ main:
     arxiv: https://arxiv.org/abs/2310.07168
     code: https://zenodo.org/records/8343013
     page: https://epubs.siam.org/doi/10.1137/22M1515537
-    bibtex: /bibtex/he2024mip.txt
+    bibtex: /assets/bibtex/he2024mip.txt
+    abstract: /assets/abstract/he2024mip.txt
     #notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title: Tractable Relaxations of Composite Functions
@@ -78,7 +93,8 @@ main:
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:g4u-DF_FNrQJ:scholar.google.com/&output=citation&scisdr=ClHzfLT3ENyfr-qKtWc:AFWwaeYAAAAAZkCMrWeATCu5vQF1oMpRVvGeQv4&scisig=AFWwaeYAAAAAZkCMrSWx4xUZ-uGQYfDppT2W-z0&scisf=4&ct=citation&cd=-1&hl=zh-TW
     page: https://pubsonline.informs.org/doi/10.1287/moor.2021.1162
-    bibtex: /bibtex/he2022tractable.txt
+    bibtex: /assets/bibtex/he2022tractable.txt
+    abstract: /assets/abstract/he2022tractable.txt
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
   - title:  A New Framework to Relax Composite Functions in Nonlinear Programs
@@ -88,6 +104,8 @@ main:
     pdf: https://link.springer.com/article/10.1007/s10107-020-01541-x
     page: https://link.springer.com/article/10.1007/s10107-020-01541-x
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: /bibtex/he2021new.txt
+    bibtex: /assets/bibtex/he2021new.txt
+    abstract: /assets/abstract/he2021new.txt
+
     # image: ./assets/img/teaser_example_2.png
     #notes: Early Accept

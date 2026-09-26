@@ -1,0 +1,6 @@
+@article{zhu2026axis,
+  title={Axis-Aligned Relaxations for Mixed-Integer Nonlinear Programming},
+  author={Zhu, Haisheng and He, Taotao and Tawarmalani, Mohit},
+  journal={arXiv preprint arXiv:2603.18458},
+  year={2026}
+}
