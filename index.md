@@ -2,7 +2,7 @@
 layout: homepage
 ---
 {: .justify}
-Hello! Welcome to my website! I am an associate professor (untenured) at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). I received my Ph.D. in 2019 from the [Quantitative Methods](https://business.purdue.edu/academics/quantitative-methods/) at Mitch Daniels School of Business, Purdue University, where I was advised by Professor [Mohit Tawarmalani](https://web.ics.purdue.edu/~mtawarma/). 
+Hello! Welcome to my website! I am an associate professor (untenured) at Antai College of Economics and Management, [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I received my Ph.D. in 2019 from the [Quantitative Methods](https://business.purdue.edu/academics/quantitative-methods/) at Mitch Daniels School of Business, Purdue University, where I was advised by Professor [Mohit Tawarmalani](https://web.ics.purdue.edu/~mtawarma/). 
 
 {: .justify}
 My research interests lie in
