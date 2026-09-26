@@ -2,10 +2,12 @@
 layout: homepage
 ---
 {: .justify}
-Hello! Welcome to my website! I am an associate professor (untenured) at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). I received my Ph.D. in 2019 from the [Quantitative Methods](https://business.purdue.edu/academics/quantitative-methods/) at [Mitch Daniels School of Business](https://business.purdue.edu/), Purdue University, where I was advised by Professor [Mohit Tawarmalani](https://web.ics.purdue.edu/~mtawarma/). 
+Hello! Welcome to my website! I am an associate professor (untenured) at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), Shanghai Jiao Tong University (SJTU). I received my Ph.D. in 2019 from the [Quantitative Methods](https://business.purdue.edu/academics/quantitative-methods/) at Mitch Daniels School of Business, Purdue University, where I was advised by Professor [Mohit Tawarmalani](https://web.ics.purdue.edu/~mtawarma/). 
 
 {: .justify}
-My research interests lie in **mixed-integer nonlinear programming (MINLP)**, including theory, algorithms, computation, and applications. I am particularly interested in developing **convexification** techniques and efficient algorithms for solving MINLPs. More recently, I have been exploring how ideas from MINLP can be used to improve decision-making in **assortment planning**, **pricing**, **data selection**, and **revealed-preference testing**.
+My research interests lie in
+<span class="emphasize">mixed-integer nonlinear programming (MINLP)</span>,
+including theory, algorithms, computation, and applications. I am particularly interested in developing <span class="emphasize">convexification</span> techniques and efficient algorithms for solving MINLPs. More recently, I have been exploring how ideas from MINLP can be used to improve decision-making in <span class="emphasize">assortment planning</span>, <span class="emphasize">pricing</span>, <span class="emphasize">data selection</span>, and <span class="emphasize">revealed-preference testing</span>.
  
 
 [Here](https://www.acem.sjtu.edu.cn/faculty/hetaotao.html#container) is my SJTU webpage in Chinese.

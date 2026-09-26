@@ -560,12 +560,12 @@ footer {
     display: inline-block;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     background: #eeeeee;
-    color: #444444;
+    color: #000000;
     border: none;
     border-radius: 800px;
     padding: 8px 10px;
     font-size: 12px;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 0.5;
     cursor: pointer;
     text-decoration: none;
@@ -593,4 +593,15 @@ footer {
 // .paper-btn:hover {
 //     background: #d8e8f2;
 //     color: #1f4d6b;
+// }
+
+.emphasize {
+    // font-size: 17px;
+    font-weight: 700;
+}
+
+// .highlight {
+//     font-size: 14px;
+//     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+//     font-weight: 700;
 // }
