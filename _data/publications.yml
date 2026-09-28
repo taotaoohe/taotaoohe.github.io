@@ -8,6 +8,7 @@ main:
   - title:  "Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization"
     authors:  Zhongqi Wu, Taotao He, and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a>  
     conference: <em>Mathematical Programming</em> (under review)
+    arxiv: https://arxiv.org/abs/2609.30712
     bibtex: /assets/bibtex/wu2026disjunctive.txt
     abstract: /assets/abstract/wu2026disjunctive.txt
   - title:  "Assortment Optimization under Logit-Based Multi-Purchase Choice Models"
