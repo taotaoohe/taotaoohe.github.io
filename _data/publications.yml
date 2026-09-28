@@ -57,7 +57,7 @@ main:
     page: https://link.springer.com/article/10.1007/s10107-024-02131-x
     bibtex: /assets/bibtex/he2025convexification.txt
     abstract: /assets/abstract/he2025convexification.txt
-  - title: “MIP Relaxations in Factorable Programming”
+  - title: "MIP Relaxations in Factorable Programming"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> 
     conference: <em>SIAM Journal on Optimization</em> (2024)
     arxiv: https://arxiv.org/abs/2310.07168
@@ -65,13 +65,13 @@ main:
     page: https://epubs.siam.org/doi/10.1137/22M1515537
     bibtex: /assets/bibtex/he2024mip.txt
     abstract: /assets/abstract/he2024mip.txt
-  - title: “Tractable Relaxations of Composite Functions”
+  - title: "Tractable Relaxations of Composite Functions"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> 
     conference: <em>Mathematics of Operations Research</em>  (2022)
     page: https://pubsonline.informs.org/doi/10.1287/moor.2021.1162
     bibtex: /assets/bibtex/he2022tractable.txt
     abstract: /assets/abstract/he2022tractable.txt
-  - title: “A New Framework to Relax Composite Functions in Nonlinear Programs”
+  - title: "A New Framework to Relax Composite Functions in Nonlinear Programs"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> 
     conference: <em>Mathematical Programming</em> (2021)
     page: https://link.springer.com/article/10.1007/s10107-020-01541-x
