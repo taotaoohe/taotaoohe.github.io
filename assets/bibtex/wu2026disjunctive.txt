@@ -1,9 +1,6 @@
-@misc{wu2026disjunctivesubmodularfunctionsenvelopes,
-      title={Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization}, 
-      author={Zhongqi Wu and Taotao He and Mohit Tawarmalani},
-      year={2026},
-      eprint={2609.30712},
-      archivePrefix={arXiv},
-      primaryClass={math.OC},
-      url={https://arxiv.org/abs/2609.30712}, 
+@article{wu2026disjunctive,
+  title={Disjunctive Submodular Functions: Envelopes and Applications to Inventory and 0-1 Quadratic Optimization},
+  author={Wu, Zhongqi and He, Taotao and Tawarmalani, Mohit},
+  journal={arXiv preprint arXiv:2609.30712},
+  year={2026}
 }

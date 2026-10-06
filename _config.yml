@@ -54,13 +54,13 @@ clustrmaps_id: Kyj0HBk08sh_2Rt2Pl019WFBS_n1HdJu5CvjRREYVHM
 # remote_theme: yaoyao-liu/minimal-light
 
 # The following files will be removed from the generated website.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-  - README_zh_Hans.md
-  - README_zh_Hant.md
-  - README_de.md
-  - LICENSE
-  - minimal-light.gemspec
-  - html_source_file/
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - README.md
+#   - README_zh_Hans.md
+#   - README_zh_Hant.md
+#   - README_de.md
+#   - LICENSE
+#   - minimal-light.gemspec
+#   - html_source_file/
