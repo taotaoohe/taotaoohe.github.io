@@ -550,10 +550,10 @@ footer {
   display: none;
   margin-top: 10px;
   padding: 15px;
-  // background: #f7f7f7;
-  background: #E0E0E0;
-  // border-left: 3px solid rgb(167, 32, 56);
-    border-left: 3px solid rgb(128, 0, 32);
+  background: #f7f7f7;
+  // background: #E0E0E0;
+  border-left: 3px solid rgb(167, 32, 56);
+    // border-left: 3px solid rgb(128, 0, 32);
   text-align: justify;
 }
 
@@ -561,7 +561,7 @@ footer {
 .paper-btn {
     display: inline-block;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background: #E0E0E0;
+    background: #f7f7f7;
     color: #000000;
     border: none;
     border-radius: 800px;
