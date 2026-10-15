@@ -47,6 +47,5 @@ I love playing soccer. Now, I play for SJTU Football Team. At Purdue, I was a me
 
 
 {% include_relative _includes/contact.md %}
- <div style="width:100px; pointer-events: none;">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=043361&w=153&t=n&d=Kyj0HBk08sh_2Rt2Pl019WFBS_n1HdJu5CvjRREYVHM&co=ffffff&cmo=3eb7f0&ct=043361'></script>
-</div>
+ <div style="width:150px; pointer-events: none;">
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=080808&w=200&t=n&d=uf-j7wo6aXXZgccQAiYJfeOetHKxAO62aa3n2ehO2nU&cmo=3acc3a&co=ffffff&cmn=ff5353&ct=808080'></script>
