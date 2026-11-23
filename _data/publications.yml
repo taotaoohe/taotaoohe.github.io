@@ -32,7 +32,7 @@ main:
     abstract: /assets/abstract/he2024discrete.txt
   - title:  "Optimal Data Reduction under Information-Theoretic Criteria"
     authors: Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/luojun.html"><autocolor> Jun Luo </autocolor></a>, and Junkai Zhao 
-    conference: <em>INFORMS Journal on Computing</em> accepted
+    conference: <em>INFORMS Journal on Computing</em> (accepted)
     arxiv: https://arxiv.org/abs/2508.16123
     bibtex: /assets/bibtex/he2025optimal.txt
     abstract: /assets/abstract/he2025optimal.txt
