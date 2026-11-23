@@ -23,12 +23,6 @@ main:
     arxiv: https://arxiv.org/abs/2603.18458
     bibtex: /assets/bibtex/zhu2026axis.txt
     abstract: /assets/abstract/zhu2026axis.txt
-  - title:  "Optimal Data Reduction under Information-Theoretic Criteria"
-    authors: Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/luojun.html"><autocolor> Jun Luo </autocolor></a>, and Junkai Zhao 
-    conference: <em>INFORMS Journal on Computing</em> (minor revision)
-    arxiv: https://arxiv.org/abs/2508.16123
-    bibtex: /assets/bibtex/he2025optimal.txt
-    abstract: /assets/abstract/he2025optimal.txt
   - title:  "Discreteness to Convexity: Promotion Planning via Simplotope Triangulation"
     authors: Taotao He and <a href="https://web.ics.purdue.edu/~mtawarma/"> <autocolor>Mohit Tawarmalani</autocolor></a> 
     conference: <em>Operations Research</em> (major revision)
@@ -36,6 +30,12 @@ main:
     page: https://arxiv.org/abs/2408.04562
     bibtex: /assets/bibtex/he2024discrete.txt
     abstract: /assets/abstract/he2024discrete.txt
+  - title:  "Optimal Data Reduction under Information-Theoretic Criteria"
+    authors: Taotao He, <a href="https://www.acem.sjtu.edu.cn/en/faculty/luojun.html"><autocolor> Jun Luo </autocolor></a>, and Junkai Zhao 
+    conference: <em>INFORMS Journal on Computing</em> accepted
+    arxiv: https://arxiv.org/abs/2508.16123
+    bibtex: /assets/bibtex/he2025optimal.txt
+    abstract: /assets/abstract/he2025optimal.txt
   - title:  "Assortment Optimization under History-Dependent Effects"
     authors: Taotao He, <a href="https://zhangyt00.github.io/"> <autocolor>Yating Zhang</autocolor></a>, and <a href="https://www.acem.sjtu.edu.cn/en/faculty/zhenghuan.html"> <autocolor>Huan Zheng</autocolor></a> 
     conference: <em>Operations Research</em> (2026)
